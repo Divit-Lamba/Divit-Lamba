@@ -1,3 +1,4 @@
+![logo](https://github.com/Divit-Lamba/Divit-Lamba/blob/main/Black%20and%20White%20Modern%20Professional%20Sales%20and%20Marketing%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Divit Lamba</h1>
 <h3 align="center">🎓 MBA Student | 📊 Finance & Data Analytics Enthusiast | 🚀 Early-Stage Learner</h3>
 
