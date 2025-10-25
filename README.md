@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Data Analytics](https://github.com/Divit-Lamba/Data-Analysis)
 
-- 🌱 I’m currently polishing my skills
+- 🌱 I’m currently polishing my **skills**
 
 - 👯 I’m looking to collaborate on **Finance & Data Analytics Projects**
 
